@@ -1,4 +1,4 @@
-
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ahmed Jasarevic</h1>
 <h3 align="center">Student at Tehnicka skola Zenica</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp">
