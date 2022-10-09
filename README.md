@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Ahmed Jasarevic</h1>
 <h3 align="center">Student at Tehnicka skola Zenica</h3>
-<img align="right" width="400" src="https://i.giphy.com/media/C4NdKtRaQE9m8/giphy.webp">
+<img align="right" width="400" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjasarevic&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjasarevic" /> </p>
 
