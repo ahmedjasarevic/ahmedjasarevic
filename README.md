@@ -1,3 +1,4 @@
+
 ![Header](./nova.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedjasarevic)
@@ -5,8 +6,9 @@
 I am Ahmed Jasarevic, Student at Tehnicka skola Zenica.
 <img align="right" width="400" src="https://i.pinimg.com/originals/18/64/53/1864534e6ed657a7a5e4b63ad020561c.png">
 
-<p align="left" style="margin-top: -90px;"> 
-    <img src="https://komarev.com/ghpvc/?username=ahmedjasarevic&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjasarevic" /> 
+<p style="text-align: left;">
+    <br>
+    <img  src="https://komarev.com/ghpvc/?username=ahmedjasarevic&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjasarevic" /> 
 </p>
 
 
