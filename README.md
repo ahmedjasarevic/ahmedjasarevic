@@ -11,7 +11,7 @@ I am Ahmed Jasarevic, Student at  Polytechnic Faculty.
 </p>
 
 
-- 🌱 I’m currently learning **JQuery AJAX**
+- 🌱 I’m currently learning **.NET MAUI**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ahmedjasarevic.github.io/)
 
