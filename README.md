@@ -13,7 +13,7 @@ I am Ahmed Jasarevic, Student at  Polytechnic Faculty.
 
 - 🌱 I’m currently learning **JQuery AJAX**
 
-- 👨‍💻 All of my projects are available at [https://jasarevicahmed.pythonanywhere.com/](https://jasarevicahmed.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [[https://jasarevicahmed.pythonanywhere.com/](https://jasarevicahmed.pythonanywhere.com/](https://ahmedjasarevic.github.io/))
 
 - 📫 How to reach me **jasarevicahmed999@gmail.com**
 
